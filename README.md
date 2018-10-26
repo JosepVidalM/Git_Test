@@ -1,5 +1,5 @@
 # Git_Test
-# git-tests
+
 # Proudly Copy-Paste ;)
 
 This is a simple markdown manual to know how to write it:
