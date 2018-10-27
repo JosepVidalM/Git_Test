@@ -1,6 +1,6 @@
 # Git_Test
 
- *Proudly Copy-Paste ;)
+ *Proudly Copy-Paste ;)*
 
 This is a simple markdown manual to know how to write it:
 https://guides.github.com/features/mastering-markdown/
